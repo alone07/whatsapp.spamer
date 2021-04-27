@@ -1,8 +1,8 @@
 import pyautogui as pg
 import time
 import webbrowser as web
-phone_no="+573006872350"
-phone_no="+573006872350"
+phone_no="+57xxxxxxxx"
+phone_no="+57xxxxxxxx"
 parsedMessage=""
 web.open('https://web.whatsapp.com/send?phone='+phone_no+'&text='+parsedMessage)
 time.sleep(8)
